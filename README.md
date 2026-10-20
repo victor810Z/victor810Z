@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Víctor 👋
+### Estudiante de Ingeniería de Software - UdeC FIE
 
-<!--
-**victor810Z/victor810Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 Manzanillo, Colima
+- 🌱 Actualmente aprendiendo: Git, GitHub, Python y MySQL
+- 🎯 Meta: Ser Desarrollador Full-Stack y crear mi primer juego 3D
+- 📚 Materia: Actividad Mi primer README
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy estudiante apasionado por la tecnología. Me gusta crear soluciones para problemas reales de mi universidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que estoy aprendiendo
+- Python
+- JavaScript
+- MySQL
+- Git & GitHub
+- PSeInt / Lógica de programación
+
+## 📫 Contacto
+- GitHub: @victor810Z
+
+---
+⭐ Este es mi repositorio especial de GitHub
